@@ -1,0 +1,6 @@
+inference
+supervision
+opencv-python
+numpy
+imutils
+pymavlink
