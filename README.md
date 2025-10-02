@@ -38,7 +38,7 @@ You will need Python and the libraries listed in the requirements.txt.
 ### Installation
 Clone the repository:
 ```bash
-git clone [https://github.com/MADHESH1234/AUTONOMOUS-DRONEFOR-SEARCH-AND-RESCUE-OPERATIONS.git]
+git clone [https://github.com/Madhesh-voidx/AUTONOMOUS-DRONEFOR-SEARCH-AND-RESCUE-OPERATIONS.git]
 ```
 
 Install Python dependencies:
